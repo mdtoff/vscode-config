@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 32,
+    "editor.minimap.maxColumn": 172,
+    "editor.minimap.renderCharacters": false,
+    "editor.colorDecorators": false,
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrap": "on",
+    "editor.mouseWheelZoom": true,
+    "editor.roundedSelection": false,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+}
